@@ -1,0 +1,28 @@
+*{
+    margin: 0px;   
+}
+
+#cabecalho{
+    background-color:#73DDFF ;
+    height: 12vh;
+    display: flex;
+    
+}
+
+#cabecalho-img {
+    width: 20%;
+}
+
+#cabecalho-span {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 80%;
+    font-size: 24px;
+    border: none;
+    height: 100%;
+}
+
+#cabecalho > span {
+    
+}
