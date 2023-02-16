@@ -1,0 +1,48 @@
+*{
+    margin: 0px;   
+}
+
+
+#cabecalho{
+    background-color:#73DDFF ;
+    height: 12vh;
+    display: flex;
+    width: 100%;
+    
+}
+
+#cabecalho-img {
+    width: 20%;
+}
+
+#cabecalho-img > IMG {
+    width: 7REM;
+    height: 7rem;
+    border-radius: 100rem;
+    margin-left: 8rem;
+
+}
+
+#cabecalho-span {
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+    width: 80%;
+    font-size: 24px;
+}
+
+
+
+#input {
+    background-image: url(search-more.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size:20px ;
+    padding: 2px;
+    border:1px solid #78c7f5;
+    border-radius: 5px;
+    background-color: #73DDFF;
+    height: 22px;
+    font-size: 18px;
+    width: 12rem;
+}
